@@ -1,49 +1,27 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>My Cool README Banner</title>
-  <style>
-    /* Estilos para el banner */
-    #banner {
-      background-color: #1A2B42;
-      color: #FFFFFF;
-      text-align: center;
-      padding: 20px;
-    }
-    h1 {
-      font-size: 50px;
-      margin-top: 0;
-    }
-    p {
-      font-size: 25px;
-      margin-bottom: 0;
-    }
-    #social-icons {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-    #social-icons a {
-      display: inline-block;
-      margin: 0 10px;
-      color: #FFFFFF;
-      font-size: 30px;
-    }
-    #social-icons a:hover {
-      color: #FFD700;
-    }
-  </style>
-</head>
-<body>
-  <div id="banner">
-    <h1>Welcome to My GitHub Profile!</h1>
-    <p>I am a passionate developer who loves to code and learn new technologies.</p>
-    <div id="social-icons">
-      <a href="https://twitter.com/yourusername"><i class="fab fa-twitter"></i></a>
-      <a href="https://www.linkedin.com/in/yourusername/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://github.com/yourusername"><i class="fab fa-github"></i></a>
-    </div>
-  </div>
-</body>
-</html>
+# Hi there! 👋 I'm Edward, the Code Wizard 🧙‍♂️
+
+I'm a passionate software developer with a love for creating elegant and efficient code. I specialize in web development and have experience with a variety of technologies such as JavaScript, React, Node.js, and more. 
+
+## 🔭 What I'm working on
+
+I'm currently working on improving my skills in React and exploring the world of data science. I'm always looking for new challenges and exciting projects to work on!
+
+## 🌱 What I'm learning
+
+I'm always learning and expanding my knowledge base. Currently, I'm diving deeper into React and also learning about machine learning with Python.
+
+## 💬 Let's connect!
+
+Want to chat about software development, technology, or just about anything else? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/edwardcodewizard/) or [Twitter](https://twitter.com/edwardcodewiz). I'm always happy to connect with like-minded individuals!
+
+## 🧰 My toolkit
+
+Here are some of the technologies and tools that I'm proficient in:
+
+- HTML5, CSS3, JavaScript
+- React, Redux, Node.js
+- Python, Jupyter Notebooks
+- Git, GitHub
+- VS Code, Sublime Text
+
+Thanks for stopping by! Don't forget to check out my projects below 👇
