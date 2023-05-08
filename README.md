@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Edward, the Code Wizard 🧙‍♂️
+#                   Hi there! 👋 I'm Edward, the Code Wizard 🧙‍♂️
 
 I'm a passionate software developer with a love for creating elegant and efficient code. I specialize in web development and have experience with a variety of technologies such as JavaScript, React, Node.js, and more. 
 
