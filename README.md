@@ -22,6 +22,6 @@ Here are some of the technologies and tools that I'm proficient in:
 - React, Redux, Node.js
 - Python, Jupyter Notebooks
 - Git, GitHub
-- VS Code, Sublime Text
+- VS Code
 
 Thanks for stopping by! Don't forget to check out my projects below 👇
